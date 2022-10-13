@@ -1,0 +1,46 @@
+header{
+
+    background-color: #DFA958;
+}
+
+
+body{
+    background-color: #BC9570;
+}
+
+.banner{
+    height: 250px;
+    background-image: url("IMG/banner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+
+}
+
+.footer{
+
+    height: 200px;
+    background-image: url("IMG/footer.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.h2{
+
+    color: #e67300;
+    margin: 0 auto;
+    -webkit-text-stroke-width: 0.7px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+}
+
+.svgszoveg{
+
+    color: #ffb366;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
